@@ -40,29 +40,6 @@ Currently:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saibhanupalla&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saibhanupalla&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Saibhanupalla&theme=transparent&hide_border=true"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> **Note:** This image will appear after you enable the GitHub Action that generates it.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Saibhanupalla/Saibhanupalla/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 💭 Dev Philosophy
 
 > *"First solve the problem. Then ask AI to make it faster."*
