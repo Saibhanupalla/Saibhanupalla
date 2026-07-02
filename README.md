@@ -48,11 +48,6 @@ Currently:
 while True:
     code()
     test()
-
-    if works():
-        break
-
-    google()
     ask_ai()
 ```
 
